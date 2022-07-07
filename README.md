@@ -8,4 +8,4 @@ All python files that worked on them in Python courses
 
 ## Screenshots
 
-![App Screenshot](https://www.github.com/amirkho-py/py-course/ball.jpg)
+![App Screenshot](https://github.com/amirkho-py/py-course/blob/master/ball.jpg)
